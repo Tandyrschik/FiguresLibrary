@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+iUrHgLsic4Q3Yb+9fBA8lIKHCg+odsNffPkwBiX+WXMlTFEa3O3Omy8vdANRrOjBM6UukoEQAVSXjtp8GO1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ebdzhavathanov\\source\\repos\\FiguresLibrary\\AreaOfFigure\\FiguresLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ebdzhavathanov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ebdzhavathanov\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ebdzhavathanov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

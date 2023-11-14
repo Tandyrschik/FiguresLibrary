@@ -1,0 +1,12 @@
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\bin\Debug\net5.0\FiguresLibrary.deps.json
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\bin\Debug\net5.0\FiguresLibrary.dll
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\bin\Debug\net5.0\ref\FiguresLibrary.dll
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\bin\Debug\net5.0\FiguresLibrary.pdb
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\obj\Debug\net5.0\FiguresLibrary.csproj.AssemblyReference.cache
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\obj\Debug\net5.0\FiguresLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\obj\Debug\net5.0\FiguresLibrary.AssemblyInfoInputs.cache
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\obj\Debug\net5.0\FiguresLibrary.AssemblyInfo.cs
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\obj\Debug\net5.0\FiguresLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\obj\Debug\net5.0\FiguresLibrary.dll
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\obj\Debug\net5.0\ref\FiguresLibrary.dll
+C:\Users\ebdzhavathanov\source\repos\FiguresLibrary\AreaOfFigure\obj\Debug\net5.0\FiguresLibrary.pdb
